@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: Rotate Models (Character & DressUp)
 ## Notes: Drag LMB to rotate character model in CharacterFrame and DressUpFrame. MMB resets, mousewheel fine-rotates.
-## Author: MRWH1TE117
+## Author: DEVC0MP
 ## Version: 1.0
 RotateModels.lua
